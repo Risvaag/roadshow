@@ -13,6 +13,8 @@ The project was earlier called [Praqma training RoadShow](https://github.com/pra
 * Can run Selenium tests againt deployed web app
 * Release and publishing of artifacts are supported
 
+HEY YOU GUYS!!!
+
 * You only need a JVM to run Gradle for playing with the basic setup on your own machine.
 
 ## Gradle as build tool
